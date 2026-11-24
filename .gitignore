@@ -1,0 +1,17 @@
+# Model checkpoints and generated outputs
+*.pt
+*.pth
+*.pdf
+lambda_sensitivity_analysis.png
+
+# Dataset (download separately)
+Project_CodeNet/
+data/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
