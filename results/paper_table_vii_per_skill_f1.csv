@@ -1,0 +1,10 @@
+skill,ast_bkt,ast_mtdkt,diff
+if_else,0.6543,0.8383,0.1840
+loops,0.6393,0.8066,0.1673
+functions,0.6475,0.6797,0.0322
+recursion,0.5728,0.0108,-0.5620
+arrays_lists,0.6129,0.5655,-0.0474
+dictionaries,0.6119,0.0000,-0.6119
+strings,0.6674,0.8378,0.1704
+algorithms,0.6239,0.1190,-0.5049
+basic_syntax,0.7120,0.2895,-0.4225
