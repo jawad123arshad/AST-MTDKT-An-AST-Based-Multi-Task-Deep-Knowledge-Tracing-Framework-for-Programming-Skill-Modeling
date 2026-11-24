@@ -288,7 +288,7 @@ Sections of `notebooks/AST-MTDKT.ipynb`:
 ### 1. Install
 
 ```bash
-git clone https://github.com/jawad123arshad/AST-MTDKT-An-AST-Based-Multi-Task-Deep-Knowledge-Tracing-Framework-for-Programming-Skill-Acquisition.git AST-MTDKT
+git clone https://github.com/jawad123arshad/AST-MTDKT-An-AST-Based-Multi-Task-Deep-Knowledge-Tracing-Framework-for-Programming-Skill-Modeling.git AST-MTDKT
 cd AST-MTDKT
 python -m venv .venv
 # Windows: .venv\Scripts\activate    |   Linux/macOS: source .venv/bin/activate
@@ -407,7 +407,7 @@ If you use this code, please cite:
   booktitle = {ICAST 2026},
   address   = {Ocean University of China, China},
   year      = {2026},
-  url       = {https://github.com/jawad123arshad/AST-MTDKT-An-AST-Based-Multi-Task-Deep-Knowledge-Tracing-Framework-for-Programming-Skill-Acquisition}
+  url       = {https://github.com/jawad123arshad/AST-MTDKT-An-AST-Based-Multi-Task-Deep-Knowledge-Tracing-Framework-for-Programming-Skill-Modeling}
 }
 ```
 
